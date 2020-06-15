@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.post{
+  width: 500px;
+  margin: 10px auto;
+  border: 1px solid black;
+}
+.user{
+  list-style-type: none;
+  border: 1px solid black;
+  width: 300px;
+  margin: 20px auto;
+}
+.user_by_name{
+  list-style-type: none;
+  border: 5px solid green;
+  width: 400px;
+  height: 300px;
+  margin: 30px auto;
+}
